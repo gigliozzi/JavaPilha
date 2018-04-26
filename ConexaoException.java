@@ -1,0 +1,5 @@
+
+class ConexaoException extends Exception {
+	
+}
+
